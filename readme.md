@@ -1,0 +1,1 @@
+This blog is published here https://magmald.github.io/blog/
