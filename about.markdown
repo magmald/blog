@@ -4,18 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the world of Aranthia, a place of mythical creatures, ancient magic, and epic adventures!
+What the druids know comes from books found in pieces scattered
+and then stitched together and translated by various sages over hundreds of years.
 
-Aranthia is a vast and diverse realm filled with ancient ruins, soaring mountains, sprawling forests, and vast oceans. From the icy peaks of the Northern Mountains to the sun-drenched deserts of the Southern Sands, the world is filled with secrets waiting to be uncovered.
+Quote #1 from The Book of Eldrida, **The Creation of All** fragment.
+> Ages ago, at the beginning of time, there was only the great nebula
+> floating in endless space. All was in balance. The powers of magic
+> and science drifted harmoniously ever outward creating the mind of Numa.
 
-Magic is pervasive throughout the land, and those with the gift of magic are revered and feared. The arcane arts are studied in great detail in the great cities of the realm, where wizards, sorcerers, and warlocks gather to share their knowledge and hone their skills. But not all magic is benevolent, and dark forces lurk in the shadows, waiting to be unleashed.
+Quote #2 from The Book of Eldrida, **TheDream** fragment.
+> Adrift in dreaming ever outward. Creating and lost in endless thought.
 
-The various races of Aranthia are as diverse as the land itself, from the noble elves who dwell in the enchanted forests to the fierce dwarves who mine the deep caverns. Humans, halflings, and gnomes populate the great cities and towns, while orcs, trolls, and other monstrous races lurk in the wilds.
-
-Ancient gods and goddesses are worshipped throughout the land, and their power is still felt in the world today. Temples and shrines to the gods can be found in every corner of the realm, and their priests and priestesses are powerful wielders of divine magic.
-
-But the world of Aranthia is not without its dangers. Dark wizards, evil cults, and monstrous creatures threaten the safety of the realm. Ancient artifacts of immense power lie hidden in the ruins of lost civilizations, waiting to be discovered by those brave enough to seek them out.
-
-Will you rise to the challenge and embark on an epic quest to save the realm? The fate of Aranthia rests in your hands!
+Quote #3 from The Book of Eldrida, **The Rift** fragment.
+> The undermind watched as Numa's whole essence was torn apart by the feared fissure,
+> sending both heart and mind into pits of darkness separated by oceans of time and space.
+> Mighty torrents of knowledge that had once been contained are now lost forever
+> leaving only a rift of conflict between opposing forces.
+> The balance lost across time and space.
 
 ![from space](/blog/assets/from_space.jpg)
