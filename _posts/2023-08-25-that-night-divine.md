@@ -1,6 +1,6 @@
-In an ageless forest where shadows reign I wander lost, a young boy bereft, beneath a tapestry of ancient trees, with strong gnarled arms whispering to me.
+In an ageless forest where shadows reign I wander lost, a young boy bereft, beneath a tapestry of ancient trees, with strong gnarled arms, whispering to me.
 
-In a clearing I find a soft place to lay back and rest beneath a starlit cosmic dome. I find solace, the woods, my home. The sky above a midnight sea. Each star a tale of what could be.
+In a clearing I find a soft place to lay back and rest beneath a starlit cosmic dome. The sky above a midnight sea. Each star a tale of what could be.
 
 As slumber danced upon my eyes,
 A nymph, enchanting, did arise,
